@@ -95,7 +95,7 @@ export default function Hero() {
             <div className="absolute inset-[3px] rounded-full bg-bg0 p-[10px]">
               <div className="relative h-full w-full overflow-hidden rounded-full border border-glassBrd bg-navy">
                 <Image
-                  src="/profile.png"
+                  src="/profile1.png"
                   alt="Ayesha Nahalage"
                   fill
                   priority
